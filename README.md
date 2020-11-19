@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**fjs138/fjs138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm Haseeb Majid</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fjs138&layout=compact)](https://github.com/hmajid2301)
+[![Haseebs's github stats](https://github-readme-stats.vercel.app/api?username=fjs138&show_icons=true)](https://github.com/hmajid2301)
+<!--[![stegappasaurus Card](https://github-readme-stats.vercel.app/api/pin/?username=fjs138&repo=stegappasaurus)](https://github.com/hmajid2301/stegappasaurus)-->
+<!--[![composerisation Card](https://github-readme-stats.vercel.app/api/pin/?username=fjs138&repo=composerisation)](https://github.com/hmajid2301/composerisation)-->
+
+Find out more here:
+
+- 💻 Website: [builtbyfrank.com](https://builtbyfrank.com)
+- 📕 Dev.to: [Blog](https://dev.to/fjs138)
+- 📫 How to reach me: fjs138@gmail.com
