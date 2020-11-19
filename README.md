@@ -10,5 +10,5 @@
 Find out more here:
 
 - 💻 Website: [builtbyfrank.com](https://builtbyfrank.com)
-- 📕 Dev.to: [Blog](https://dev.to/fjs138)
+- 📕 Dev.to: [Blog](https://builtbyfrank.com/blog)
 - 📫 How to reach me: fjs138@gmail.com
