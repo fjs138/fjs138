@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Frank Santaguida</h1>
+<h1 align="center">Hi 👋!</h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fjs138&layout=compact)](https://github.com/hmajid2301)
 [![Haseebs's github stats](https://github-readme-stats.vercel.app/api?username=fjs138&show_icons=true)](https://github.com/hmajid2301)
@@ -9,6 +9,6 @@
 
 Find out more here:
 
-- 💻 Website: [builtbyfrank.com](https://builtbyfrank.com)
-- 📕 Dev.to: [Blog](https://builtbyfrank.com/blog)
-- 📫 How to reach me: fjs138@gmail.com
+- 💻 Business: [builtbyfrank.com](https://builtbyfrank.com)
+- 📕 Blog: [Blog](https://builtbyfrank.com/blog)
+- 📫 Email: fjs138@gmail.com
