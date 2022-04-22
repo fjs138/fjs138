@@ -2,9 +2,9 @@
 
 <h1 align="center">👋Hi !</h1>
 
-![Frank's GitHub stats](https://github-readme-stats.vercel.app/api?username=fjs138&count_private=true&hide=stars,prs,issues,contribs&show_icons=true&theme=radical)
+![Frank's GitHub stats](https://github-readme-stats.vercel.app/api?username=fjs138&count_private=true&hide=stars,prs,issues,contribs&show_icons=true&theme=algolia)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fjs138&layout=compact&theme=radical)](https://github.com/fjs138)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fjs138&layout=compact&theme=algolia)](https://github.com/fjs138)
 <!--
 Find out more here:
 
