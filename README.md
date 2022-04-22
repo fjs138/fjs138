@@ -1,6 +1,6 @@
 
 
-<h1 align="center">👋Hi ! <img src="https://github-readme-stats.vercel.app/api?username=fjs138&count_private=true&hide=stars,prs,issues,contribs&show_icons=true&theme=algolia"/>
+<h1 align="center"><p>👋Hi !</p> <img src="https://github-readme-stats.vercel.app/api?username=fjs138&count_private=true&hide=stars,prs,issues,contribs&show_icons=true&theme=algolia"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjs138&layout=compact&theme=algolia&langs_count=8&card_width=default)](https://github.com/fjs138"/></h1>
 
 <!--
