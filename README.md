@@ -1,24 +1,29 @@
+<h1 align="center">Hi, I'm Frank</h1>
 
+<p align="center">
+  AI Software Engineer - agentic systems, RAG, and MCP, with a full-stack background in TypeScript and React.
+</p>
 
-<h1 align="center"><p>👋Hi there!</p> <img src="https://github-readme-stats.vercel.app/api?username=fjs138&count_private=true&hide=stars,prs,issues,contribs&show_icons=true&theme=default"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjs138&layout=compact&theme=default&langs_count=8&card_width=default)](https://github.com/fjs138"/></h1>
+---
 
-<!--
-Find out more here:
+I spent the last three years at **Penn State** building AI systems for scientific research:
 
-- 💻 Business: [builtbyfrank.com](https://builtbyfrank.com)
-- 📕 Blog: [Blog](https://frankjs.net/blog)
-- 📫 Email: fjs138@gmail.com
+- **MaterialsTube** - an NSF-funded AI video platform for the materials science community. I architected and built it end to end: automated transcription, transcript chunking, OpenAI embeddings, Pinecone vector search, LangChain orchestration, and streaming LLM responses on AWS serverless.
+- **LiST** - an agentic chat interface using a ReAct-style loop on the OpenAI Responses API, with OpenAPI-derived tool schemas, system-prompt guardrails to constrain mutations against production data, and a FastMCP server exposing platform tools over the Model Context Protocol.
+- **LLM-as-judge evaluation harnesses** benchmarking agent responses for correctness, latency, cost, and regression against deterministic API ground truth.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fjs138&repo=crypt-keepr)](https://github.com/fjs138/crypt-keepr)
+Before that: a decade of full-stack delivery - architecture, database design, integrations, and deployment - for clients across a range of industries.
 
+### What I work with
 
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=fjs138&count_private=true&hide=stars,prs,issues,contribs&show_icons=true&theme=algolia"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjs138&layout=compact&theme=algolia&langs_count=8&card_width=default)](https://github.com/fjs138"/>
-<div>
--->
+Python, TypeScript, React, Next.js, FastAPI, AWS, PyTorch, OpenAI APIs, RAG, MCP, LangChain, Pinecone, SQL
 
+### Recent work
 
+- **[StereoSift](https://github.com/fjs138/StereoSift)** - a local-first desktop toolkit for media judgment, SBS 3D conversion, upscaling, and organization. Runs fully offline on local models, or point it at any OpenAI-compatible endpoint.
 
+### Elsewhere
 
+- [linkedin.com/in/franksantaguida](https://www.linkedin.com/in/franksantaguida/)
+- [frankjs.net](https://frankjs.net)
+- fjs138@gmail.com
