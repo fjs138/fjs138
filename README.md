@@ -1,11 +1,8 @@
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fjs138&theme=default" alt="GitHub profile summary" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fjs138&theme=default" alt="Top languages by repo" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fjs138&theme=default" alt="Most committed languages" />
 </p>
+
 <h1 align="center">Hi, I'm Frank</h1>
 
 <p align="center">
